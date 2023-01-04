@@ -45,6 +45,12 @@ const App: () => Node = () => {
         <Text>
           Hello World!
         </Text>
+        <Text>
+          Test CI in develop branch!
+        </Text>
+        <Text>
+          Test another CI in develop branch!
+        </Text>
       </View>
     </SafeAreaView>
   );
