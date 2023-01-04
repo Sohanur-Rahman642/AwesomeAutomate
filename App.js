@@ -46,7 +46,7 @@ const App: () => Node = () => {
           Hello World!
         </Text>
         <Text>
-          Test CI in develope branch!
+          Test CI in develop branch!
         </Text>
       </View>
     </SafeAreaView>
