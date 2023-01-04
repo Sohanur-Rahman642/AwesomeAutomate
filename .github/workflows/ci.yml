@@ -23,4 +23,7 @@ jobs:
       - name: Run test
         run: |
           yarn test-ci
+      - name: Build Android
+        run: |
+          yarn android    
           
